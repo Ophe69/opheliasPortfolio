@@ -1,7 +1,7 @@
 import React from 'react';
 import about from '../img/computer-girl.jpg';
 import home3 from '../img/facePic/home3.jpg';
-import CV from '../docs/CV Ophelia Tagbo DevWebAlt.pdf'
+import CV from '../docs/CV_OpheliaTagbo_DevWebAlt.pdf'
 
 function imageSection() {
     return (

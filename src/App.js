@@ -13,6 +13,7 @@ function App() {
 
   const navClick = () =>{
     setNavToggle(!navToggle)
+    
   }
 
   return (

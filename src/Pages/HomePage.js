@@ -34,12 +34,12 @@ function HomePage() {
 
                 </p>
                 <div className="icons">
-                    <Link to="https://www.linkedin.com/in/ophélia-tagbo" className="icon-holder">
+                    <a href="https://www.linkedin.com/in/ophélia-tagbo" className="icon-holder">
                         <FontAwesomeIcon icon={faLinkedin} className="icon lkdin" />
-                    </Link>
-                    <Link to="https://github.com/Ophe69" className="icon-holder">
+                    </a>
+                    <a href="https://github.com/Ophe69" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
-                    </Link>
+                    </a>
                     {/* <Link to="test" className="icon-holder">
                         <FontAwesomeIcon icon={faYoutube} className="icon yt"/>
                     </Link> */}

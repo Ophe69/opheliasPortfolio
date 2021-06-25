@@ -12,19 +12,19 @@ function Navbar() {
                 </div>
                 <ul className='nav-items'>
                     <li className='nav-item'>
-                        <NavLink to="/" exact activeClassName="active">
+                        <a href="/" exact activeClassName="active">
                             Home
-                        </NavLink>
+                        </a>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/about" exact activeClassName="active">
+                        <a href="/about" exact activeClassName="active">
                             About Me
-                        </NavLink>
+                        </a>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/portfolios" exact activeClassName="active">
+                        <a href="/portfolios" exact activeClassName="active">
                             Portfolio
-                        </NavLink>
+                        </a>
                     </li>
                     {/* <li className="nav-item">
                         <NavLink to="/blogs" exact activeClassName="active">
@@ -32,9 +32,9 @@ function Navbar() {
                         </NavLink>
                     </li> */}
                     <li className="nav-item">
-                        <NavLink to="/contact" exact activeClassName="active">
+                        <a href="/contact" exact activeClassName="active">
                             Contact
-                        </NavLink>
+                        </a>
                     </li>
                 </ul>
                 <footer className="footer">
