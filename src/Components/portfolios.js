@@ -32,7 +32,7 @@ const portfolios = [
         //icon2: 'Images', y ajouter un caroussel avec quelques captures d'écrans
         image: locapic,
         title: 'My Locapic',
-        desc : "Locapic est une application mobile qui permet de géolocaliser l'utilisateur et de suivre l’historique de ses déplacements. Elle permet aussi de chatter avec l’ensemble des utilisateurs connectés à l’application. Mise en place de l'environnement Expo pour deployer l'application, intégration de la Navigation, d'une map interactive et de la geolocalisation. Utilisation de websockets et du Local Storage. ",
+        desc : "Locapic est une application mobile qui permet de géolocaliser l'utilisateur et de suivre l’historique de ses déplacements. Elle permet aussi de chatter avec l’ensemble des utilisateurs connectés. Mise en place de l'environnement Expo, intégration de la Navigation, d'une map intéractive et de la géolocalisation. Utilisation de websockets et du Local Storage. ",
         //stack: ajouter les logo des techno utilisées
     },
     {

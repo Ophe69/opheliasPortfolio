@@ -1,7 +1,9 @@
 import React from 'react'
 import {faGithub, faYoutube, faLinkedin} from '@fortawesome/free-brands-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { FontAwesomeIcon, file } from '@fortawesome/react-fontawesome';
+import { faFilePdf } from '@fortawesome/free-solid-svg-icons'
 import {Link} from 'react-router-dom';
+import CV from '../docs/CV_OpheliaTagbo_DevWebAlt.pdf'
 
 function HomePage() {
     return (
@@ -39,6 +41,9 @@ function HomePage() {
                     </a>
                     <a href="https://github.com/Ophe69" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
+                    </a>
+                    <a href={CV} className="icon-holder">
+                        <FontAwesomeIcon icon={faFilePdf} className="icon cv" />
                     </a>
                     {/* <Link to="test" className="icon-holder">
                         <FontAwesomeIcon icon={faYoutube} className="icon yt"/>
