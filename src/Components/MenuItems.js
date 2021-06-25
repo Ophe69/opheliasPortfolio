@@ -18,10 +18,7 @@ function MenuItems({menuItem}) {
                         <h5>
                             {item.title}
                         </h5>
-                        <p>Créer une interface utilisateur avec HTML et CSS
-                            Maîtriser la notion de DOM et d'événements en JS
-                            Maîtriser le fonctionnement d’une librairie JS, avec JQuery
-</p>
+                        <p className="item-desc">{item.desc}</p>
                     </div>
                 })
             }

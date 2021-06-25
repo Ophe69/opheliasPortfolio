@@ -120,26 +120,26 @@ a{
 
 .btn-port{
     padding: .6rem 2rem;
-    background-color: #0381ff5b;
+    background-color: #C7A003;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: inherit;
     font-family: inherit;
-    color: white;
+    color: black;
     margin-bottom: 1rem;
     transition: all .3s ease-in-out;
     &:not(:last-child){
         margin-right: 1rem;
     }
     &:hover{
-        background-color: #037FFF;
+        background-color: #C7A003;
     }
     &:active{
-        background-color: #037FFF;
+        background-color: #EDE599;
     }
     &:focus{
-        background-color: #037FFF;
+        background-color:#EDE599;
     }
     
 
