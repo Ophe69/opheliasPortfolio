@@ -53,15 +53,28 @@
 .about-details{
     display: flex;
     p{
-        padding: .3rem 0;
+        //padding: .5rem 0;
     }
-    .right-section{
-        margin-left: 2.3rem;
-    }
-    .left-section{
-        text-decoration: underline;
+    
+    
+    .cat-presentation{
+        display: flex;
+        flex-direction: row;
+        margin-right: 3rem;
+        .left-section{
+            display: flex;
+            justify-content: flex-start;
+            text-decoration: underline;
+            width: 30px;
+            margin-right: 4rem;
+            margin-bottom: 1rem;
+        }
+        .right-section{
+            margin-left: 4rem;
+        }
     }
 }
+
 
 .btn{
     padding: 1rem 2rem;
