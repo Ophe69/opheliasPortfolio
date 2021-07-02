@@ -101,8 +101,8 @@ function ContactPage() {
                 <Title title={'Contact'} span={'Contact'} />
             </div>
             <div className="hero-text-contact">
-                Je cherche une entreprise pour m'accueillir en contrat pro à partir du 14/09/21 <br/>
-                Le programme de mon école est juste <a href={programme}><i><span>ici</span></i></a>
+                Etant toujours à la recherche d'opportunités, j'étudierai toutes les propositions avec attention <i>(stage, alternance, mission freelance...)</i> <br/>
+                {/* Le programme de mon école est juste <a href={programme}><i><span>ici</span></i></a> */}
             </div>
             <div className="ContactPage">
                 <div className="map-sect">

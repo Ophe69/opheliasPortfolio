@@ -28,9 +28,8 @@ function HomePage() {
                     <i> La Capsule </i> 
                     </strong>
                     <br/>
-                    <br/> Aujourd'hui j'aimerai m'investir dans un projet, trouver une entreprise et une équipe prêtes à m'accueillir <br/>
-                    pour mon année <strong>d'alternance  
-                    en tant que conceptrice-développeuse d'application.</strong>
+                    <br/> Aujourd'hui j'aimerai m'investir dans un projet, trouver <strong>une entreprise mais surtout une équipe </strong> au service de qui mettre mes compétences et surtout <br/>
+                    <strong>continuer, encore et toujours à apprendre!</strong>
 
 
 
