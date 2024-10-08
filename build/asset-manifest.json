@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b7d33c6.chunk.css",
+    "main.js": "/static/js/main.5e939de7.chunk.js",
+    "main.js.map": "/static/js/main.5e939de7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.44b4dd8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.44b4dd8b.js.map",
+    "static/js/2.2324d0ae.chunk.js": "/static/js/2.2324d0ae.chunk.js",
+    "static/js/2.2324d0ae.chunk.js.map": "/static/js/2.2324d0ae.chunk.js.map",
+    "static/js/3.eeebadf8.chunk.js": "/static/js/3.eeebadf8.chunk.js",
+    "static/js/3.eeebadf8.chunk.js.map": "/static/js/3.eeebadf8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0b7d33c6.chunk.css.map": "/static/css/main.0b7d33c6.chunk.css.map",
+    "static/js/2.2324d0ae.chunk.js.LICENSE.txt": "/static/js/2.2324d0ae.chunk.js.LICENSE.txt",
+    "static/media/CV_OpheliaTagbo_DevWebAlt.4775f1fc.pdf": "/static/media/CV_OpheliaTagbo_DevWebAlt.4775f1fc.pdf",
+    "static/media/ProgrammeWCS.073ea9d9.pdf": "/static/media/ProgrammeWCS.073ea9d9.pdf",
+    "static/media/article.b73cd663.svg": "/static/media/article.b73cd663.svg",
+    "static/media/blackBoard5.9859e537.png": "/static/media/blackBoard5.9859e537.png",
+    "static/media/cloudySunny.97253d80.png": "/static/media/cloudySunny.97253d80.png",
+    "static/media/computer-girl.cbfef815.jpg": "/static/media/computer-girl.cbfef815.jpg",
+    "static/media/App.scss": "/static/media/dots.9978678b.svg",
+    "static/media/emailIcon.a60657eb.svg": "/static/media/emailIcon.a60657eb.svg",
+    "static/media/home3.163d39fb.jpg": "/static/media/home3.163d39fb.jpg",
+    "static/media/kutit.fc8fd7cc.png": "/static/media/kutit.fc8fd7cc.png",
+    "static/media/locapic.4b724567.png": "/static/media/locapic.4b724567.png",
+    "static/media/locationIcon.5cd6776e.svg": "/static/media/locationIcon.5cd6776e.svg",
+    "static/media/mobileApplication.522e6b16.svg": "/static/media/mobileApplication.522e6b16.svg",
+    "static/media/morningNews3.5e0c9642.png": "/static/media/morningNews3.5e0c9642.png",
+    "static/media/myMails1.1190f42a.png": "/static/media/myMails1.1190f42a.png",
+    "static/media/myMoviz2.d4e1a7e7.png": "/static/media/myMoviz2.d4e1a7e7.png",
+    "static/media/ordinateur.96db3b08.svg": "/static/media/ordinateur.96db3b08.svg",
+    "static/media/phoneIcon.ef86e22a.svg": "/static/media/phoneIcon.ef86e22a.svg",
+    "static/media/profil.9e051b73.jpg": "/static/media/profil.9e051b73.jpg",
+    "static/media/shoeshop.8a9268c4.png": "/static/media/shoeshop.8a9268c4.png",
+    "static/media/webdesign.7cb28228.svg": "/static/media/webdesign.7cb28228.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b4dd8b.js",
+    "static/js/2.2324d0ae.chunk.js",
+    "static/css/main.0b7d33c6.chunk.css",
+    "static/js/main.5e939de7.chunk.js"
+  ]
+}
